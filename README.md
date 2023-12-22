@@ -1,4 +1,4 @@
-#IP-Crawl
+# IP-Crawl
 本项目，从头至尾都是用openAI 生成，包括本readme大部分。
 真意是监控游戏进程的TCP/UDP连接，做成相应的Clash Rule Provider。
 
@@ -15,8 +15,6 @@
 以下是一个简单的运行须知的 README 示例：
 
 ```
-# IPCrawl
-
 IPCrawl 是一个用于监视指定进程的网络连接并记录访问的 Python 脚本。
 
 ## 运行要求
