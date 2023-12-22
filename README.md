@@ -1,3 +1,7 @@
+#IP-Crawl
+本项目，从头至尾都是用openAI 生成，包括本readme大部分。
+真意是监控游戏进程的TCP/UDP连接，做成相应的Clash Rule Provider。
+
 `ipcrawl.py` 的最低的 Python 版本需求为 Python 3.6 或更高版本。此外，它依赖于以下 Python 标准库：
 
 - `psutil`：用于获取系统和进程信息。
